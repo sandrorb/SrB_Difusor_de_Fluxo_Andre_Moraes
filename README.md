@@ -1,4 +1,4 @@
-# Difusor de Fluxo  do André Moraes
+# Indicador Difusor de Fluxo  do André Moraes para MetaTrader5
 
 O indicador Difusor de Fluxo foi concebido pelo analista André Moraes e é baseado no indicador MACD.
 
